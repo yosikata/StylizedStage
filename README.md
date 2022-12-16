@@ -21,6 +21,6 @@ WorldPartitionEditorとDatalayerOutlinerを表示します。
 ![DataLayer](https://user-images.githubusercontent.com/5137050/207994138-ddd760dc-f65d-422c-8720-ebb2ae1005cd.gif)  
 
 ## ■ゲーム内の操作について
-0キー → 草の表示オン・オフ  
-1キー → 木の表示オン・オフ
+0キー → 草の表示オン・オフ    
+1キー → 木の表示オン・オフ  
 ![GamePlay](https://user-images.githubusercontent.com/5137050/207994779-516fe9d7-e64b-4a66-9944-05ce3ea3129d.gif)
